@@ -2,7 +2,6 @@
 <link href='http://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif:700' rel='stylesheet' type='text/css'>
 <link href='basic.css' rel='stylesheet' type='text/css'>
 <div class="container">
-
 	<header class="masthead">
 		<h1>Elizabeth Ryabova</h1>
 		<div class="sub_header">
@@ -10,62 +9,41 @@
 			<span class="location">Belarus, Minsk</span>
 		</div>
 	</header>
-
-
 	<section class="intro">
 		<p>2nd year student of BSU FPMI, born on 01.10.2002, unmarried.
        + 375(44) 531-40-73 - preferred method of communication</p>
 	</section>
-
 	<section class="skills">
 		<h1>Skills</h1>
 	</section>
-
 	<div class="clearfix">
 		<section class="work item_list">
 			<h1>Languages skills</h1>
-
 				<div class="item">
 					<div class="what">Russian, Belarusian - native</div>
           <div class="what">English - B1+</div>
           <div class="what">German – B1+</div>
 		</section>
-
 		<section class="edu item_list">
 			<h1>IT skills</h1>
 			<div class="item">
 				<div class="what">C++</div>
 				<div class="what">Java</div>
 	</section>
-
 	<section class="skills">
 		<h1>Personal skills</h1>
-
 			<ul class="primary">
-
 				<li>Ability to analyze and make decisions
-
 				<li>Entrepreneurship
-
 				<li>Optimism
-
 			</ul>
-
-
 			<ul class="secondary">
-
 				<li>Responsibility
-
 				<li>Honesty
-
 				<li>Ambition
-
 				<li>Sociability
-
 				<li>Enthusiasm
-
 			</ul>
-
 <h1>Achievements</h1>
 			<div class="blurb"><p>Successful participation in city Olympiads in various subjects during the
 period of study in gymnasium No. 50.
@@ -84,10 +62,7 @@ university team.
 At the moment, I am the curator of the first course of computer
 security of the FPMI from the administration of the BSU.
 </p>
-
-
 <h2>Education</h2>
-
 <p>I studied at Padworth College (London, UK) in 2014.
 Graduated with a red diploma from the music school No. 8 in Minsk.
 Graduated with honors in 2018 from the international school of
@@ -100,7 +75,8 @@ I am studying at the German language courses at the Goethe Institute in Moscow.
 Minsk (current level B2).</p>
 
 <h2>Code example</h2>
-```java
+
+<p>```java
 public static void main(String[] args) {
         if ( args.length != 2 ) {
             System.err.println("Invalid number of arguments");
@@ -131,7 +107,7 @@ public static void main(String[] args) {
         System.out.printf( fmt, Math.log( (1+x) /(1 - x) ));
         System.exit(0);
     }
-```
+```</p>
 	</section>
 
 </div>
