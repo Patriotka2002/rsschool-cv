@@ -14,8 +14,6 @@
        + 375(44) 531-40-73 - preferred method of communication</p>
 	</section>
 	<section class="skills">
-		<h1>Skills</h1>
-	</section>
 	<div class="clearfix">
 		<section class="work item_list">
 			<h1>Languages skills</h1>
@@ -30,7 +28,6 @@
 				<div class="what">C++</div>
 				<div class="what">Java</div>
 	</section>
-	<section class="skills">
 		<h1>Personal skills</h1>
 			<ul class="primary">
 				<li>Ability to analyze and make decisions
@@ -44,6 +41,7 @@
 				<li>Sociability
 				<li>Enthusiasm
 			</ul>
+			</section>
 <h1>Achievements</h1>
 			<div class="blurb"><p>Successful participation in city Olympiads in various subjects during the
 period of study in gymnasium No. 50.
